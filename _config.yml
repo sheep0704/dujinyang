@@ -30,4 +30,4 @@ plugins:
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker

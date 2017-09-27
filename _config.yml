@@ -8,9 +8,9 @@ baseurl: "/dujinyang" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://sheep0704.github.io
 
 # Author Settings
-author: Dujinyang # add your name
+author: KARL-Dujinyang # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author: Co-Founder at &IMMQY | CTO | Game And Machine Learning Engineer | Open Source Contributor <br/> 深圳市米奇云科技有限公司 CHINA.SZ 309933706@qq.com http://www.immqy.com. # add description
 twitter: # add your Twitter handle
 facebook: # add your Facebook handle
 github: # add your Github handle
